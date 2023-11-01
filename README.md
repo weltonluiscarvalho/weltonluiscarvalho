@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weltonluiscarvalho
-- 👀 I’m interested in everything
+- 👀 I’m interested in learn new technologies
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on whatever it's possible
 - 📫 How to reach me: welton.carvalho.dev@gmail.com
