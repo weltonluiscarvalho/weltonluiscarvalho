@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weltonluiscarvalho
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on whatever it's possible
 - 📫 How to reach me: welton.carvalho.dev@gmail.com
 
